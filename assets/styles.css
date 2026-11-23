@@ -709,3 +709,4 @@ table.plain td small { display: block; font-size: .8rem; color: var(--muted); fo
 .lu__sum + .task { border-top: 0; }
 
 .evsep { border: 0; border-top: 1px solid var(--line-strong); margin: 1.1rem 0; }
+.opdr-head { margin-top: .9rem; padding: .7rem 1.25rem; border-top: 3px solid var(--petrol-ink); background: var(--line); font-family: var(--f-mono); font-size: .78rem; letter-spacing: .06em; text-transform: uppercase; color: var(--petrol-ink); font-weight: 600; }
