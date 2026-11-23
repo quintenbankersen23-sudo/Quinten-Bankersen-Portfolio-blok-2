@@ -707,3 +707,5 @@ table.plain td small { display: block; font-size: .8rem; color: var(--muted); fo
 .lu__sum b { display: block; font-family: var(--f-mono); font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--petrol-ink); margin-bottom: .35rem; }
 .lu__sum p { margin: 0; max-width: var(--read); }
 .lu__sum + .task { border-top: 0; }
+
+.evsep { border: 0; border-top: 1px solid var(--line-strong); margin: 1.1rem 0; }
